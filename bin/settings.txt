@@ -1,0 +1,22 @@
+Reload Script Hotkey = F4
+Close Script Hotkey = F5
+Settings GUI Hotkey = F3
+Start And Stop DPS Phase = F2
+Manually Start and Stop DPS Phases = true
+Include DPS Calculations = true
+DPS Numbers Near Crosshair = false
+Decimal Places in Main Health Percentage = 2
+Include Estimated Boss Health = true
+Show Damage Dealt Instead of Boss Health = true
+Show Damage Phase Duration = false
+Show Estimated Time to Kill = false
+Include Burst and Sustained Specifiers = false
+GUI Text Color = white
+GUI Text Font = Noto Sans
+Display info in a separate window = false
+Make Text Bold = true
+1920x1080 = false
+Ultrawide 1440p Monitor = false
+Brightness Level = 7
+Colorblind Setting = Tritanopia
+ = ===========================

@@ -1,0 +1,49 @@
+Carl, 1500000, 0
+Riven, 170255, 1
+Savathun, 249945, 1
+Templar, 182596, 0
+Phry'zhia, 101053, 0
+Testing (final), 10000000, 1
+Testing (no final), 10000000, 0
+Agraios, 530451, 0
+Akelous, 112294, 0
+Atheon, 247148, 0
+Atraks, 76035, 1
+Avarokk, 111700, 0
+Caiatl, 117486, 0
+Caretaker, 663786, 1
+Consecrated, 153455, 0
+Crota, 480445, 1
+Crypt Security, 12117, 1
+Dul Incaru, 214959, 1
+Ecthar, 180621, 1
+Epoptes, 537446, 0
+Explicator, 295535, 1
+Galhran, 133133, 0
+Golgoroth, 409156, 0
+Hefnd, 254999, 1
+Herald, 391079, 1
+Iatros, 250154, 0
+Ir Yut, 288027, 0
+Kalli, 299440, 0
+Kell Echo, 105803, 0
+Kerrev, 296370, 0
+Koregos, 756068, 1
+Locus, 239073, 0
+Morgeth, 125126, 0
+Nezarec, 262082, 1
+Oryx, 423228, 1
+Persys, 148907, 0
+Phalanx Echo, 49678, 0
+Puppeteer, 325278, 0
+Raneiks, 224291, 0
+Rathil, 112393, 0
+Rhulk, 397638, 1
+Sanctified, 196586, 0
+Shuro Chi, 253511, 5
+Simmumah, 144404, 1
+Taniks, 277639, 1
+Warpriest, 480831, 0
+Witness, 543552, 1
+Zoetic Lockset, 205547, 0
+Zulmak, 61752, 0
